@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "R R",
+        "RRR",
+        "RRR"
+    ],
+   
+    "key":
+    {
+        "R":
+        {
+            "item": "nm:natriumpower_ingot"
+        }
+       
+    },
+   
+    "result":
+    {
+        "item": "nm:natrium_chestplate",
+        "count": 1
+    }
+}

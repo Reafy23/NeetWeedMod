@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "R",
+        "R",
+        "S"
+    ],
+   
+    "key":
+    {
+        "R":
+        {
+            "item": "nm:natriumpower_ingot"
+        },
+        
+        "S":
+        {
+            "item": "minecraft:stick"
+        }
+        
+    },
+   
+    "result":
+    {
+        "item": "nm:natriumpower_sword",
+        "count": 1
+    }
+}

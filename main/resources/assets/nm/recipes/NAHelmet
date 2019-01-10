@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "RRR",
+        "R R",
+        "   "
+    ],
+   
+    "key":
+    {
+        "R":
+        {
+            "item": "nm:natriumpower_ingot"
+        }
+        
+    },
+   
+    "result":
+    {
+        "item": "nm:natrium_helmet",
+        "count": 1
+    }
+}

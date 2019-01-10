@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "RRR",
+        "RCR",
+        "RRR"
+    ],
+   
+    "key":
+    {
+        "R":
+        {
+            "item": "minecraft:blaze_powder"
+        },
+        
+        "C":
+        {
+            "item": "nm:natrium_ingot"
+        }
+        
+    },
+   
+    "result":
+    {
+        "item": "nm:natriumpower_ingot",
+        "count": 1
+    }
+}

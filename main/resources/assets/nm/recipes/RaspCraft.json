@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "  R",
+        " I ",
+        "I  "
+    ],
+    "key": {
+        "R": {
+            "item": "minecraft:flint"
+        },
+        "I": {
+            "item": "minecraft:iron_ingot"
+        }
+    },
+    "result": 
+    {
+       "item": "nm:rasp",
+       "count": 1
+    }
+}

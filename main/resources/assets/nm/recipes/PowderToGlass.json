@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shapeless",
+ 
+    "ingredients":
+    [
+ 
+    {
+      "item": "nm:natrium_powder"
+    },
+    
+    {
+      "item": "minecraft:glass_bottle"
+    }
+    
+    ],
+ 
+    "result":
+    {
+        "item": "nm:napowder_bottle",
+        "count": 1
+    }
+}

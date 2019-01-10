@@ -1,0 +1,33 @@
+//Items
+item.cotton_pad.name=Cotton Pad
+item.universal_seed.name=AK-47 Seed
+item.white_widow.name=White Widow Seed
+item.super_skunk.name=Super Skunk Seed
+item.natrium_ingot.name=Natrium Ingot
+item.rasp.name=Rasp
+item.natrium_powder.name=Natrium Powder
+item.nagas_bottle.name=Natrium Gas Bottle
+item.napowder_bottle.name=Natrium Powder Bottle
+item.natriumpower_ingot.name=Natrium Power Ingot
+
+//Armor
+item.natrium_helmet.name=Natrium Helmet
+item.natrium_chestplate.name=Natrium Chestplate
+item.natrium_leggins.name=Natrium Leggins
+item.natrium_boots.name=Natrium Boots
+
+//Blocks
+tile.natriumdec_block.name=Block of Natrium
+tile.natrium_ore.name=Natrium Ore
+
+
+//Tabs
+
+itemGroup.neetweedmod=NeetWeedMod
+
+//Tools
+item.natriumpower_sword.name=Natrium Sword
+item.natriumpower_axe.name=Natrium Axe
+item.natriumpower_pickaxe.name=Natrium Pickaxe
+item.natriumpower_hoe.name=Natrium Hoe
+item.natriumpower_shovel.name=Natrium Shovel

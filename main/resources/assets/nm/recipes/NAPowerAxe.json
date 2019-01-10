@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+
+    "pattern":
+    [
+        "RR",
+        "SR",
+        "S "
+    ],
+
+    "key":
+    {
+        "R":
+        {
+            "item": "nm:natriumpower_ingot"
+        },
+
+                "S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+
+    "result":
+    {
+        "item": "nm:natriumpower_axe",
+        "count": 1
+    }
+}

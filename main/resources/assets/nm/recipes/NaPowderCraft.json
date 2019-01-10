@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "III",
+        "ISI",
+        "III"
+    ],
+    "key": {
+        "I": {
+            "item": "nm:natrium_ingot",
+            "data": 0
+        },
+        "S": {
+            "item": "nm:rasp",
+            "data": 32767
+        }
+    },
+    "result": {
+        "item": "nm:natrium_powder",
+        "count": 1
+    }
+    
+}

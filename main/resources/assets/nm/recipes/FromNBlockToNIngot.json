@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+ 
+    "ingredients":
+    [
+ 
+    {
+      "item": "nm:natriumdec_block"
+    }
+   
+    ],
+ 
+    "result":
+    {
+        "item": "nm:natrium_ingot",
+        "count": 9
+    }
+}
